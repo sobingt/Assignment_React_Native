@@ -28,7 +28,7 @@ Thank you for confirming your participation in the next step of our interview pr
   - Ensure your code is well-documented and include clear instructions on how to run it.
 
 - **Design Resources:**
-  - You can access the design details through the following Figma link: [Figma Link].
+  - You can access the design details through the following Figma link: [Figma Link](https://github.com/sobingt/Assignment_React_Native/blob/main/Assignment_React_Native.fig).
 
 - **Card Stack Animation:**
   - The cards in the design have a Cards Stack Animation. You can select one of the following resources or implement a similar Cards Stack Animation:
